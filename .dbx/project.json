@@ -1,0 +1,9 @@
+{
+  "environments": {
+    "default": {
+      "profile": "demo",
+      "workspace_dir": "/Users/michael.shtelma@databricks.com/dbxtest",
+      "artifact_location": "dbfs:/Users/dbx/dbxtest10"
+    }
+  }
+}
